@@ -5,3 +5,13 @@
     one more css for each page that will contain the selected used 
     on that page only (the ones not reused in other pages).
 */
+
+input {
+    border-radius: 5px;
+    height: 40px;
+    width: 280px;
+}
+
+body {
+    background-color: white;
+}

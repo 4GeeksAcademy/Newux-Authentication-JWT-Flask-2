@@ -1,3 +1,13 @@
 /* 
     General Styles used on every website (Don't Repeat Yourself)
 */
+
+.card {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: rgb(231, 230, 230) 1px solid;
+    border-radius: 8px;
+    width: 500px;
+    height: 550px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
